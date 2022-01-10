@@ -1,0 +1,107 @@
+/*
+Colors
+bg-        #F5F5F5
+dark blue- #30475E
+red-       #F05454
+black-     #121212
+
+*/
+
+body {
+  background-color: #F5F5F5;
+  font-family: sans-serif;
+  letter-spacing: 1.5px;
+  margin: 0;
+}
+
+h1 {
+  color: #30475E;
+  font-size: 45px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.band-img {
+  width: 500px;
+  float: left;
+  padding-top: 45px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.about {
+  padding-top: 100px;
+  padding-bottom: 350px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.videos img {
+  width: 200px;
+  height: 200px;
+}
+
+nav {
+  background-color: #F05454;
+  height: 50px;
+  border-top: 10px solid #F05454;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 30px;
+}
+
+nav a:hover {
+  background-color: #fff;
+  color: #F05454;
+}
+
+.discography {
+
+  text-align: center;
+  border: 10px solid #F05454;
+}
+
+.videos {
+   text-align: center;
+   padding-top: 200px;
+   padding-bottom: 200px;
+   padding-left: 40px;
+}
+
+.videos a:hover {
+  opacity: 0.5;
+}
+
+
+
+.Members {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+footer {
+  text-align: center;
+  background-color: #F05454;
+  padding-top: 20px;
+  height: 50px;
+  color: #fff;
+}
